@@ -28,7 +28,7 @@ const matias = {
         misc: ["Firebase", "Socket.IO", "solidity"]
     },
     architecture: ["PWA", "SPA"],
-    currentProject: "Actualmente estoy trabajando en la pagina principal de portafolio"
+    currentProject: "Actualmente estoy trabajando en mi portafolio"
 };
 ```
 
