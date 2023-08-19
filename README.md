@@ -6,7 +6,7 @@
 [![Linkedin: matiseto](https://img.shields.io/badge/-matiseto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiseto-p-singh/)](https://www.linkedin.com/in/matiseto/)
 ![GitHub followers](https://img.shields.io/github/followers/maatist?label=Follow&style=social)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas acerca de mi...
 
 ```javascript
 const matias = {
