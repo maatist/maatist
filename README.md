@@ -10,7 +10,7 @@
 
 ```javascript
 const matias = {
-    code: ["Javascript", "Typescript", "Python", "Java"],
+    code: ["Javascript", "Typescript", "Java", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "blockchain", "Music!"],
     technologies: {
         mobileApp: ["Android App", "Flutter"],
@@ -20,7 +20,7 @@ const matias = {
         },
         backEnd: {
             js: ["node", "express"],
-            java: ["Spring"]
+            java: ["Spring"],
             python: ["Django"]
         },
         devOps: ["Azure", "Nginx"],
