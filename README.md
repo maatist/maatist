@@ -19,7 +19,7 @@ const matias = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
+            js: ["node", "express"],
             java: ["Spring"]
             python: ["Django"]
         },
