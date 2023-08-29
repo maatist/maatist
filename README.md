@@ -10,7 +10,7 @@
 
 ```javascript
 const matias = {
-    code: ["Javascript", "Typescript", "Java", "Python"],
+    code: ["Javascript", "Typescript", "Java", "Python", "Solidity"],
     askMeAbout: ["web dev", "tech", "app dev", "blockchain", "Music!"],
     technologies: {
         mobileApp: ["Android App", "Flutter"],
@@ -25,7 +25,7 @@ const matias = {
         },
         devOps: ["Azure", "Nginx"],
         databases: ["mongo", "MySql", "SQL Server"],
-        misc: ["Firebase", "Socket.IO", "solidity"]
+        misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["PWA", "SPA"],
     currentProject: "Actualmente estoy trabajando en mi portafolio"
