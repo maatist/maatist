@@ -16,7 +16,7 @@ const matias = {
         mobileApp: ["Android App", "Flutter"],
         frontEnd: {
             js: ["React"],
-            css: ["bootstrap"]
+            css: ["bootstrap","Tailwind"]
         },
         backEnd: {
             js: ["node", "express"],
@@ -28,7 +28,7 @@ const matias = {
         misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["PWA", "SPA"],
-    currentProject: "Actualmente estoy trabajando en mi portafolio"
+    currentProject: "Actualmente estoy trabajando en proyectos para mi portafolio"
 };
 ```
 
