@@ -15,7 +15,7 @@ const matias = {
     technologies: {
         mobileApp: ["Android App", "Flutter"],
         frontEnd: {
-            js: ["React"],
+            js: ["React", "Next.js"],
             css: ["bootstrap","Tailwind"]
         },
         backEnd: {
