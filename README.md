@@ -11,26 +11,28 @@
 ```javascript
 const matias = {
     code: ["Javascript", "Typescript", "Java", "Python", "Solidity"],
-    askMeAbout: ["web dev", "tech", "app dev", "blockchain", "Music!"],
+    askMeAbout: ["Web dev", "Tech", "App dev", "Blockchain", "Music!"],
     technologies: {
         mobileApp: ["Android App", "Flutter"],
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["bootstrap","Tailwind"]
+            css: ["Bootstrap","Tailwind"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["Node", "Express"],
             java: ["Spring"],
             python: ["Django"]
         },
         devOps: ["Azure", "Nginx"],
         databases: ["mongo", "MySql", "SQL Server"],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ["Firebase", "Socket.IO","EVM"]
     },
     architecture: ["PWA", "SPA"],
     currentProject: "Actualmente estoy trabajando en proyectos para mi portafolio"
 };
 ```
+
+#### Visita mi pagina web: https://matiseto.com
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gustaria conectar con mas personas por linkedin.</b> Te espero, <b>Asi armamos una gran red!</b> 😊</em>
 
