@@ -1,12 +1,11 @@
-<h2> Hola!, Soy Matias Sepulveda  <img src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47uqq0yye68o7rs6ko5i47pquinqis64dmx97760pu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>Hola!, Soy Matias Sepulveda</h2>
 <p><em>Desarrollador de software en <a href="https://www.edsa.com.ar/">EDSA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: matiseto](https://img.shields.io/badge/-matiseto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiseto-p-singh/)](https://www.linkedin.com/in/matiseto/)
 ![GitHub followers](https://img.shields.io/github/followers/maatist?label=Follow&style=social)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas acerca de mi...
+<h2> Un poco mas acerca de mi... </h2>
 
 ```javascript
 const matias = {
@@ -31,8 +30,8 @@ const matias = {
     currentProject: "Actualmente estoy trabajando en proyectos para mi portafolio"
 };
 ```
-
-#### Visita mi pagina web: https://matiseto.com
+<p><em>Visita mi pagina web aca! <a href="https://matiseto.com">Matiseto</a>
+</em></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gustaria conectar con mas personas por linkedin.</b> Te espero, <b>Asi armamos una gran red!</b> 😊</em>
 
