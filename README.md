@@ -5,7 +5,7 @@
 [![Linkedin: matiseto](https://img.shields.io/badge/-matiseto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiseto-p-singh/)](https://www.linkedin.com/in/matiseto/)
 ![GitHub followers](https://img.shields.io/github/followers/maatist?label=Follow&style=social)
 
-<h2> Un poco mas acerca de mi... </h2>
+<h3> Un poco mas acerca de mi... </h3>
 
 ```javascript
 const matias = {
