@@ -1,5 +1,5 @@
 <h2>Hola!, Soy Matias Sepulveda</h2>
-<p><em>Desarrollador de software en <a href="https://www.edsa.com.ar/">EDSA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Desarrollador de software 
 </em></p>
 
 [![Linkedin: matiseto](https://img.shields.io/badge/-matiseto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiseto-p-singh/)](https://www.linkedin.com/in/matiseto/)
