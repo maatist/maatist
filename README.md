@@ -18,18 +18,18 @@ const matias = {
         },
         backEnd: {
             js: ["Node", "Express"],
-            java: ["Spring"],
+            java: ["Spring", "SpringBoot"],
             python: ["Django"]
         },
         devOps: ["Azure", "Nginx"],
-        databases: ["mongo", "MySql", "SQL Server"],
+        databases: ["mongo", "MySql", "SQL Server", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO","EVM"]
     },
-    architecture: ["PWA", "SPA"],
-    currentProject: "Actualmente estoy trabajando en mi portafolio y proyectos para el"
+    architecture: ["PWA", "SPA", "Microservices", "Microfrontend"],
+    currentProject: "Actualmente estoy trabajando en una consultora para importante cliente financiero"
 };
 ```
-<p><em>Visita mi pagina web aca! <a href="https://matiseto.com">Matiseto</a>
+<p><em>Visita mi pagina web aca! <a href="https://matiseto.cl">Matiseto</a>
 </em></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gustaria conectar con mas personas por linkedin.</b> Te espero, <b>Asi armamos una gran red!</b> 😊</em>
